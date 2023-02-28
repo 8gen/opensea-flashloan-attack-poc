@@ -1,0 +1,7 @@
+{
+    "solidity.remapping": {
+        "forge-std": "./lib/forge-std/src",
+        "@openzeppelin-contracts": "./lib/openzeppelin-contracts/contracts",
+        "@seaport": "./lib/seaport/contracts"
+    }
+}
